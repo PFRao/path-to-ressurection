@@ -1,0 +1,25 @@
+HOW TO PLAY:
+
+Your fight your way through hordes of monsters to reach the bottom floor of the dungeon. There, you will find the fabled __________. You must steal this artifact, then make your way back out of the dungeon. That's it!
+
+@ represents you, the player character. You can be anyone/anything you want!
+
+> represents stairs leading down, allowing you to proceed further into the dungeon. Be careful! Monsters get stronger the deeper ing the dungeon you are
+
+< represents stairs leading up. These are most useful after you've grabbed the __________.
+
+If you encounter something and are unsure of its identity, simply mouse over it and the game will tell you what it is.
+
+CONTROLS:
+
+Use the arrow keys or the keypad to move. The keypad is preferred, since this will allow you to move diagonally.
+
+"g" picks up items on the floor.
+
+"d" allows you drop items you've picked up.
+
+"i" looks at your inventory.
+
+"c" looks at your character screen
+
+">" and "<" tells your player to go up/down the stairs, as appropriate.

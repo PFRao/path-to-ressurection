@@ -1,0 +1,8 @@
+0.1
+
+Added the ability to morph.
+Added "Cow" morph.
+
+0.2
+
+Added stamina bar.

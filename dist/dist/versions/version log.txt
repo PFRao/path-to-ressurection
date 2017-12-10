@@ -1,0 +1,13 @@
+0.1
+
+Added persistant levels, and the ability to go back up the stairs.
+Added chain mail, rusty helmet, and tunic.
+Player now starts with 0 defense, but wearing a tunic which provides 1 AC.
+
+0.2
+
+Added the Sanctum and the Amulet, providing a win condition for the game.
+Chain mail changed to leather armor. Added a new version of chain mail (stronger than the old version) as well as a battleaxe.
+Item generation changed. Items can be spawn on any floor but now appear much more randomly & rarely.
+
+0.3
